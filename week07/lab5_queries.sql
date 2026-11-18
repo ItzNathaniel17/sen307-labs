@@ -1,7 +1,7 @@
 -- ============================================
 -- VUA-SEN307 Lab 5: SELECT, Filtering and Joins
--- Name: YOUR FULL NAME
--- Matric: YOUR MATRIC NUMBER
+-- Name: OCHIGA OCHE NATHANIEL
+-- Matric: VUG/SEN/24/12966
 -- ============================================
 
 -- This file contains SQL queries for Lab 5. Each query is preceded by a comment explaining its purpose.
