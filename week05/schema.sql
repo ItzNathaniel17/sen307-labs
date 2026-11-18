@@ -1,5 +1,5 @@
 -- VUA-SEN307 Database Systems | Week 5 Practical Lab 3
--- Student: Paul Kelechi | Matric: VUG/SEN/24/12934
+-- Student: OCHIGA OCHE NATHANIEL | Matric: VUG/SEN/24/12966
 -- Database name follows the Week 4 naming convention.
 
 CREATE DATABASE IF NOT EXISTS sen307_VUG_SEN_24_12966;
